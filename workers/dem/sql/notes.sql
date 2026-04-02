@@ -1,0 +1,5 @@
+-- Neste steg:
+-- 1. Bytt flow_accum_proxy til WhiteboxTools/TauDEM flow accumulation
+-- 2. Laste raster inn i PostGIS med raster2pgsql
+-- 3. Sample rasterverdier mot trail_segments geom
+-- 4. Eksponer raster/vektor som tiles
